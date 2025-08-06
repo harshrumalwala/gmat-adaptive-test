@@ -137,8 +137,8 @@ seaborn
 - After each block of 3 questions:
 
   - ✅ 3 correct → ability +1
-  - ❌ 0/1 correct → ability forced to -1
-  - ❌ 2 correct → ability 0
+  - ❌ 2 correct → ability stays same
+  - ❌ 0/1 correct → ability -1
 
 - The ability score then sets the **target difficulty** of the next block (range: 1–5).
 
